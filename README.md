@@ -1,6 +1,8 @@
-# Example Organiser
+# oakley-with-wootton organiser
 
-This is an example organiser that demonstrates how to structure content for an Our Area community website like Our Oakley. It shows how to organise events, venues, and organisers with their associated information.
+This is the Oakley with Wootton organiser for the Our Oakley website.
+
+Below still example content
 
 ## Directory Structure
 
