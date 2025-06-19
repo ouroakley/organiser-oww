@@ -1,5 +1,5 @@
 ---
-title: Holiday@Home - Tuesday
+title: Holiday@Home - Thursday
 eventStart: 2025-07-31T10:00:00.000Z
 eventEnd: 2025-07-31T16:00:00.000Z
 venues:
