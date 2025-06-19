@@ -7,6 +7,8 @@ venues:
 organisers:
   - oww
 ---
+![Holiday@Home poster advertising event. Full details on page below.](house-at-home.jpg "Holiday@Home")
+
 An event for Senior Residents of Oakley and Wooton St Lawrence.
 
 Celebrating Jane Austen
