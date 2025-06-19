@@ -1,6 +1,6 @@
 ---
 title: Holiday@Home - Wednesday
-eventStart: 2025-07-33T10:00:00+01:00
+eventStart: 2025-07-30T10:00:00+01:00
 eventEnd: 2025-07-30T16:00:00+01:00
 venues:
   - st-leonards-centre
