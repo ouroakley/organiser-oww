@@ -1,13 +1,12 @@
 ---
 title: Holiday@Home - Tuesday
-eventStart: 2025-07-29T10:00:00.000Z
-eventEnd: 2025-07-29T16:00:00.000Z
+eventStart: 2025-07-29T10:00:00+01:00
+eventEnd: 2025-07-29T16:00:00+01:00
 venues:
   - st-leonards-centre
 organisers:
   - oww
 ---
-
 An event for Senior Residents of Oakley and Wooton St Lawrence.
 
 Celebrating Jane Austen
