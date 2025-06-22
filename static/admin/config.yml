@@ -50,21 +50,10 @@ collections:
         name: "eventDates"
         widget: "list"
         required: false
-        hint: "Add multiple dates for recurring or multi-day events"
+        hint: "Add a single date for a one-day event, or multiple dates for recurring or multi-day events"
         fields:
-          - {label: "Start Date", name: "start", widget: "datetime"}
-          - {label: "End Date", name: "end", widget: "datetime"}
-      - label: "Event Start"
-        name: "eventStart"
-        widget: "datetime"
-        format: YYYY-MM-DDTHH:mm:ssZ
-        hint: "Enter the start date and time of the event. Both time and date are required. Use 00:00 as the time for all day events."
-      - label: "Event End"
-        name: "eventEnd"
-        widget: "datetime"
-        format: YYYY-MM-DDTHH:mm:ssZ
-        required: false
-        hint: "Enter the end date and time of the event. Both time and date are optional. Use 00:00 as the time for all day events."
+          - {label: "Start Date", name: "start", widget: "datetime", format: YYYY-MM-DDTHH:mm:ssZ}
+          - {label: "End Date", name: "end", widget: "datetime", format: YYYY-MM-DDTHH:mm:ssZ}
       - label: "Venues"
         name: "venues"
         widget: "list"
