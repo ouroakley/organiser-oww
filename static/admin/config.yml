@@ -46,6 +46,14 @@ collections:
         widget: "string"
         required: false
         hint: "Enter a short summary of the event. This will be displayed on the event listing page."
+      - label: "Event Dates" 
+        name: "eventDates"
+        widget: "list"
+        required: false
+        hint: "Add multiple dates for recurring or multi-day events"
+        fields:
+          - {label: "Start Date", name: "start", widget: "datetime"}
+          - {label: "End Date", name: "end", widget: "datetime"}
       - label: "Event Start"
         name: "eventStart"
         widget: "datetime"
@@ -72,6 +80,11 @@ collections:
         name: "body"
         widget: "markdown"
         required: false
+      - label: "Aliases"
+        name: "aliases"
+        widget: "list"
+        required: false
+        hint: "Enter any aliases for this event. Comma seperated, with no spaces. Replace spaces with a dash."
 
   - name: "organisers-info"
     label: "Organiser Info"
