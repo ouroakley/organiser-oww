@@ -41,6 +41,11 @@ collections:
         name: "title"
         widget: "string"
         hint: "Enter the title of the event."
+      - label: "Poster"
+        name: "poster"
+        widget: "image"
+        required: false
+        hint: "Upload a poster image for the event"
       - label: "Event Summary"
         name: "eventSummary"
         widget: "string"
