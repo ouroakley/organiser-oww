@@ -7,4 +7,5 @@ venues:
   - tbc
 organisers:
   - oww
+date: 2025-11-29
 ---

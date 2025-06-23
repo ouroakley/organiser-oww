@@ -17,6 +17,7 @@ aliases:
   - holiday-at-home-tuesday
   - holiday-at-home-wednesday
   - holiday-at-home-thursday
+date: 2025-07-29
 ---
 An event for Senior Residents of Oakley and Wooton St Lawrence.
 
