@@ -3,7 +3,6 @@ eventEnd: 2025-06-22T23:14:00+01:00
 title: Holiday@Home
 venues:
   - st-leonards-centre
-eventStart: 2025-06-22T23:14:00+01:00
 poster: holiday-home-jane-austen-poster.jpg
 eventDates:
   - start: 2025-07-29T10:00:00+01:00
