@@ -8,4 +8,6 @@ venues:
 organisers:
   - oww
 date: 2025-11-29
+aliases:
+  - /events/2025/11/christmas-market/
 ---
