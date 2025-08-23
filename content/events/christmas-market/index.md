@@ -5,7 +5,7 @@ eventDates:
   - start: 2025-11-29T13:00:00+00:00
     end: 2025-11-29T15:00:00+00:00
 venues:
-  - tbc
+  - st-johns-field
 organisers:
   - oww
 aliases:
